@@ -1,303 +1,456 @@
-1
-00:00:00,001 --> 00:00:00,300
-Subtitle translated by members of www.mydict.org
+﻿1
+00:00:00,001 --> 00:00:01,000
+mydict.org 荣誉出品
 
 2
+00:00:01,250 --> 00:00:02,750
+参与用户：Asea, Peter, Ankedeng, Forever, Xinyan_y13
+
+3
 00:00:03,500 --> 00:00:05,330
 什么是YouTube？
 Was ist YouTube?
 
-3
+4
 00:00:05,330 --> 00:00:07,000
 这其实很简单。
 Das ist eigentlich ganz einfach.
 
-4
-00:00:07,000 --> 00:00:09,300
-就像是 Instagram 用来给他的美食拍照
-Genau wie Instagram dafür da ist, 
-um Fotos von seinem Essen zu machen 
-
-
 5
-00:00:09,300 --> 00:00:13,100
-或者像 Facebook 用来发一些重要信息：
-“啊～明天我们有数学考试”
-und Facebook für wichtige Meldungen wie 
-Boah morgen schreiben wir nen Mathetest",
+00:00:07,000 --> 00:00:08,700
+就像是 Instagram 用来
+Genau wie Instagram dafür da ist,
 
 6
-00:00:13,100 --> 00:00:18,499
-YouTube 也有个明显的功用： 猫猫视频
-hat auch YouTube eine ganz klare Funktion: Katzenvideos.
+00:00:08,200 --> 00:00:09,900
+给他的美食拍照
+um Fotos von seinem Essen zu machen
 
 7
-00:00:18,499 --> 00:00:22,189
-YouTube 是全世界最大的猫猫视频播放平台。
-YouTube ist die größte Abspielplattform für Katzenvideos weltweit.
+00:00:09,600 --> 00:00:11,800
+或者像 Facebook 用来发一些重要信息：
+und Facebook für wichtige Meldungen wie
 
 8
-00:00:22,189 --> 00:00:25,989
-就像每个大平台都会被滥用一样，人们拿这个平台
-Aber wie jede große Plattform wird sie natürlich 
-missbraucht und Leute machen Dinge damit,
+00:00:11,400 --> 00:00:13,800
+“啊～明天我们有数学考试”
+Boah morgen schreiben wir nen Mathetest",
 
 9
-00:00:25,989 --> 00:00:29,509
-做了这个平台创建者从未想过的事。
-仔细看一下，在YouTube上可以找到
-für die sie nie gedacht war.
-Wer genau hinschaut, findet auf YouTube so
+00:00:13,100 --> 00:00:15,749
+YouTube 也有个明显的功用：
+hat auch YouTube eine ganz klare Funktion:
 
 10
-00:00:29,509 --> 00:00:35,000
-非常多的视频种类： 喜剧，视频日志，指南，
-游戏，电影或者音乐视频。
-ziemlich alles: Comedy, Vlogs, Tutorials,
-Games, Filme oder Musikvideos.
+00:00:15,849 --> 00:00:18,099
+猫猫视频。
+Katzenvideos.
 
 11
+00:00:18,099 --> 00:00:22,089
+YouTube 是世界最大的猫猫视频播放平台。
+YouTube ist die größte Abspielplattform für Katzenvideos weltweit.
+
+12
+00:00:22,089 --> 00:00:24,089
+就像每个大平台都会被滥用一样，
+Aber wie jede große Plattform wird sie natürlich missbraucht
+
+13
+00:00:24,189 --> 00:00:26,789
+人们拿这个平台做了YouTube创建者从未想过的事。
+und Leute machen Dinge damit, für die sie nie gedacht war.
+
+14
+00:00:26,789 --> 00:00:29,509
+仔细看一下，在YouTube上可以找到
+Wer genau hinschaut, findet auf YouTube so
+
+15
+00:00:29,509 --> 00:00:30,204
+非常多的视频种类：
+ziemlich alles:
+
+16
+00:00:30,304 --> 00:00:32,502
+喜剧、视频日志、指南、
+Comedy, Vlogs, Tutorials,
+
+17
+00:00:32,502 --> 00:00:35,000
+游戏、电影或者音乐视频。
+Games, Filme oder Musikvideos.
+
+18
 00:00:35,000 --> 00:00:36,400
 好吧，几乎一切。
 Na gut, fast alles.
 
-
-12
-00:00:36,400 --> 00:00:40,970
-这期间人们对这个平台如此滥用，
-以至于有人居然断言，YouTube将
-Der Missbrauch ist mittlerweile so groß,
-dass einige sogar behaupten, YouTube wäre
-
-13
-00:00:40,970 --> 00:00:42,060
-成为新的电视！
-das neue Fernsehen!
-
-
-14
-00:00:42,060 --> 00:00:46,500
-然而，YouTube对于我们的意义，完全不同于
-那布满灰尘的电视机对于那些不能上网的人
-Dabei ist es überhaupt nicht so, wie die verstaubte
-Flimmerkiste für Leute, die kein Internet haben:
-
-
-15
-00:00:46,500 --> 00:00:50,180
-YouTube年轻、不循规蹈矩，与电视完全不一样。
-YouTube ist jung, anarchisch und total anders!
-
-
-16
-00:00:50,180 --> 00:00:55,040
-庸俗的电视节目中充斥着明星八卦，
-一成不变的播出时间、劣质的谈话节目、
-Im spießigen TV dreht sich alles um Stars,
-feste Sendezeiten, billige Shows, 
-
-
-17
-00:00:55,040 --> 00:00:59,010
-烦人的街头调查、让人尴尬的家庭录像，还有多如牛毛的广告干扰！
-nervige Straßenumfragen, peinliche Homevideos und
-viel zu viele Werbeunterbrechungen!
-
-
-18
-00:00:59,010 --> 00:01:04,039
-在 YouTube 上当然没有这些。
-嗯。。。好吧，或许它和电视也不是
-Das alles gibts auf YouTube natürlich nicht.
-Öhm... Okay, also vielleicht ist es doch
-
 19
-00:01:04,040 --> 00:01:07,249
-“完全”不一样，两者之间还是有些共同之处。
-nicht *völlig* anders. Ein paar Gemeinsamkeiten
-gibt es schon.
-
+00:00:36,400 --> 00:00:38,635
+这期间人们对这个平台如此滥用，
+Der Missbrauch ist mittlerweile so groß,
 
 20
-00:01:07,249 --> 00:01:11,719
-但是YouTube提供的更多！与电视不同的是，
-观众可以变得很活跃。
-Aber YouTube bietet mehr!
-Anders als im Fernsehen können Zuschauer
+00:00:38,735 --> 00:00:40,000
+以至于有人居然断言，
+dass einige sogar behaupten,
 
 21
-00:01:11,719 --> 00:01:15,149
-观众不仅看视频，还可以
-dort selbst aktiv werden.
-Sie schauen nicht nur Videos, sondern kommentieren
+00:00:40,000 --> 00:00:42,060
+YouTube将成为新的电视！
+YouTube wäre das neue Fernsehen!
 
 22
-00:01:15,149 --> 00:01:16,710
-发表评论甚至可以自己拍一些视频！
-sie auch und drehen sogar welche!
+00:00:42,060 --> 00:00:44,030
+然而，YouTube对于我们的意义，
+Dabei ist es überhaupt nicht so,
 
 23
-00:01:16,710 --> 00:01:20,619
-在YouTube上的视频无需担心收视率的问题。
-Was auf YouTube läuft muss keine Angst vor
-Einschaltquoten haben.
+00:00:44,030 --> 00:00:46,500
+完全不同于那布满灰尘的电视机对于那些不能上网的人：
+wie die verstaubte Flimmerkiste für Leute, die kein Internet haben:
 
 24
-00:01:20,619 --> 00:01:25,520
-取而代之的是点播数！当然，这比收视率要好多了！
-Die Währung dort heisst Aufrufzahlen! Das
-ist natürlich viel besser! Und selbstverständlich
+00:00:46,500 --> 00:00:50,180
+YouTube年轻、不循规蹈矩，与电视完全不一样！
+YouTube ist jung, anarchisch und total anders!
 
 25
-00:01:25,520 --> 00:01:28,000
-不言而喻的是，您也可以拍摄一些无人观看的私人视频。
-kannst du auch Videos machen, wenn keiner zuschaut.
+00:00:50,180 --> 00:00:52,560
+庸俗的电视节目中充斥着明星八卦，
+Im spießigen TV dreht sich alles um Stars,
 
 26
-00:01:28,500 --> 00:01:33,609
-电视软广告是个很大的问题，因此有新的规则出台对付这个问题。
-Neue Massstäbe werden im Kampf gegen Schleichwerbung
-gesetzt - ein großes Problem im TV!
+00:00:52,660 --> 00:00:54,540
+一成不变的播出时间、劣质的谈话节目、
+feste Sendezeiten, billige Shows,
 
 27
-00:01:33,609 --> 00:01:38,548
-在 YouTube 上会有很多“独立”制作人介绍自己喜欢的产品，
-Auf YouTube verraten *unabhängige* Privatpersonen
-ihre persönlichen Lieblingsprodukte, und sind
+00:00:54,540 --> 00:00:55,975
+烦人的街头调查、
+nervige Straßenumfragen,
 
 28
-00:01:38,549 --> 00:01:42,000
-他们买的这些产品(甚至都)没有工业界的保障。
-garantiert nicht von der Industrie gekauft.
+00:00:55,975 --> 00:00:57,392
+痛苦尴尬的家庭录像，
+peinliche Homevideos
 
 29
-00:01:42,869 --> 00:01:47,539
-各种指南也是个受欢迎的话题，不像电视，你随时可以打开观看。
-Tutorials sind ebenfalls sehr beliebt und,
-anders als im Fernsehen, jederzeit abrufbar!
+00:00:57,392 --> 00:00:59,010
+还有多如牛毛的广告干扰！
+und viel zu viele Werbeunterbrechungen!
 
 30
+00:00:59,010 --> 00:01:01,474
+在 YouTube 上当然没有这些。
+Das alles gibts auf YouTube natürlich nicht.
+
+31
+00:01:01,574 --> 00:01:03,056
+嗯。。。好吧，
+Öhm... Okay,
+
+32
+00:01:03,056 --> 00:01:05,339
+或许它和电视也不是“完全”不一样，
+also vielleicht ist es doch nicht *völlig* anders.
+
+33
+00:01:05,440 --> 00:01:07,249
+两者之间还是有些共同之处。
+Ein paar Gemeinsamkeiten gibt es schon.
+
+34
+00:01:07,249 --> 00:01:09,434
+但是YouTube提供的更多！
+Aber YouTube bietet mehr!
+
+35
+00:01:09,534 --> 00:01:10,776
+与电视不同的是，
+Anders als im Fernsehen
+
+36
+00:01:10,776 --> 00:01:13,119
+观众可以变得很活跃。
+können Zuschauer dort selbst aktiv werden.
+
+37
+00:01:13,119 --> 00:01:14,084
+观众不仅观看视频，
+Sie schauen nicht nur Videos,
+
+38
+00:01:14,184 --> 00:01:15,149
+还可以发表评论，
+sondern kommentieren sie auch
+
+39
+00:01:15,149 --> 00:01:16,710
+甚至可以自己拍一些视频！
+und drehen sogar welche!
+
+40
+00:01:16,710 --> 00:01:20,619
+在YouTube上的视频无需担心收视率的问题。
+Was auf YouTube läuft muss keine Angst vor Einschaltquoten haben.
+
+41
+00:01:20,619 --> 00:01:23,019
+取而代之的是点播数！
+Die Währung dort heisst Aufrufzahlen!
+
+42
+00:01:23,119 --> 00:01:24,520
+当然，这比收视率要好多了！
+Das ist natürlich viel besser!
+
+43
+00:01:24,520 --> 00:01:25,210
+不言而喻的是，
+Und selbstverständlich
+
+44
+00:01:25,210 --> 00:01:28,300
+您也能拍摄一些根本没人看的视频。
+kannst du auch Videos machen, wenn keiner zuschaut.
+
+45
+00:01:28,300 --> 00:01:31,504
+针对电视软广告不断有新的规定出台，
+Neue Massstäbe werden im Kampf gegen Schleichwerbung gesetzt
+
+46
+00:01:31,504 --> 00:01:33,609
+-- 这是电视节目中的一个大问题，
+--  ein großes Problem im TV!
+
+47
+00:01:33,609 --> 00:01:36,028
+在 YouTube 上会有很多“独立”制作人
+Auf YouTube verraten *unabhängige* Privatpersonen
+
+48
+00:01:36,128 --> 00:01:37,848
+介绍自己喜欢的产品，
+ihre persönlichen Lieblingsprodukte,
+
+49
+00:01:37,849 --> 00:01:42,000
+他们买的这些产品(甚至都)没有工业界的保障。
+und sind garantiert nicht von der Industrie gekauft.
+
+50
+00:01:42,069 --> 00:01:44,454
+各种指南也是个受欢迎的话题，
+Tutorials sind ebenfalls sehr beliebt und,
+
+51
+00:01:44,454 --> 00:01:47,539
+不像电视，你随时可以打开观看。
+anders als im Fernsehen, jederzeit abrufbar!
+
+52
 00:01:47,539 --> 00:01:51,000
 折纸艺术家会教你折出一整个小动物园，
 Origami-Künstler zeigen, wie man ganze Kleintierzoos faltet,
 
-31
-00:01:51,000 --> 00:01:55,409
-情感专家会给出一些创造性的调情建议。
-业余厨子会告诉你
+53
+00:01:51,000 --> 00:01:53,154
+情感专家会给出一些创造性的调情建议，
 Beziehungsexperten geben kreative Anmachtipps,
-und Hobbyköche, erklären, welche Möglichkeiten
 
-32
-00:01:55,409 --> 00:01:57,509
+54
+00:01:53,254 --> 00:01:54,509
+业余厨子会告诉你
+und Hobbyköche, erklären,
+
+55
+00:01:54,509 --> 00:01:57,509
 用熏肉能做出多少样菜来。
-das Kochen mit Bacon bietet.
+welche Möglichkeiten das Kochen mit Bacon bietet.
 
-33
-00:01:57,809 --> 00:02:02,560
-和喜剧不同的是，游戏玩家是最常滥用 YouTube 的群体，
-Gamer sind, neben den Comedians, die Gruppe,
-die YouTube am meisten missbrauchen, denn
+56
+00:01:57,809 --> 00:01:59,834
+和喜剧演员不同的是，游戏玩家
+Gamer sind, neben den Comedians,
 
-34
-00:02:02,560 --> 00:02:07,719
-他们不会去拍那些关于猫的视频，而是去制作游戏攻略视频。
-在游戏攻略视频中，
-statt Katzenvideos machen sie vor allem Letsplays.
-Darin sieht man anderen beim Spielen zu und
+57
+00:01:59,834 --> 00:02:02,560
+是最常滥用 YouTube 的群体，
+die Gruppe, die YouTube am meisten missbrauchen,
 
-35
-00:02:07,719 --> 00:02:11,700
-观众专心致志的观看以获得游戏心得，例如说:我的世界(Minecraft)。
-erfährt viel über die unterschiedlichsten
-Games - wie zum Beispiel Minecraft
+58
+00:02:02,560 --> 00:02:03,589
+他们不会去拍那些关于猫的视频，
+denn statt Katzenvideos
 
-36
+59
+00:02:03,589 --> 00:02:05,419
+而是首先制作游戏攻略视频。
+machen sie vor allem Letsplays.
+
+60
+00:02:05,419 --> 00:02:07,309
+观众观看别的玩家玩游戏
+Darin sieht man anderen beim Spielen zu
+
+61
+00:02:07,309 --> 00:02:09,604
+以获得很多不同的游戏心得，
+und erfährt viel über die unterschiedlichsten Games
+
+62
+00:02:09,604 --> 00:02:11,700
+-- 例如说:我的世界(Minecraft)。
+-- wie zum Beispiel Minecraft
+
+63
 00:02:11,700 --> 00:02:13,920
-不过可惜的是，这些攻略视频中几乎都和猫无关
+不过可惜的是，这都几乎和猫无关。
 aber leider fast gar nichts über Katzen.
 
-37
-00:02:13,920 --> 00:02:17,940
-虽然有很多猫猫视频源源不断地上传到 YouTube，
+64
+00:02:13,920 --> 00:02:15,880
+虽然有很多猫猫视频
 Obwohl auch weiterhin fleissig Katzenvideos
-auf Youtube hochgeladen werden, wird der Missbrauch
 
-38
-00:02:17,940 --> 00:02:20,770
-但还是远不能阻止其它种类占据 YouTube.
-durch andere Genres nie ganz verhindert werden können.
+65
+00:02:15,980 --> 00:02:17,340
+源源不断地上传到 YouTube，
+auf Youtube hochgeladen werden,
 
-39
-00:02:20,770 --> 00:02:25,290
-因此我们要团结起来，寻找那些受人欢迎的上传者
+66
+00:02:17,340 --> 00:02:19,005
+这种其它流派的视频占据 YouTube的现象
+wird der Missbrauch durch andere Genres
+
+67
+00:02:19,105 --> 00:02:20,770
+还是不可能得到根本地改观。
+nie ganz verhindert werden können.
+
+68
+00:02:20,770 --> 00:02:22,980
+因此我们要团结起来，
 Statt dessen sollten wir als Community zusammenhalten,
-und unsere Lieblings-Youtuber schnappen und
 
-40
-00:02:25,290 --> 00:02:27,850
-并且请求他们，将来制作上传更多的猫猫视频。
-sie darum bitten, in Zukunft mehr Katzenvideos zu machen.
+69
+00:02:23,080 --> 00:02:24,690
+寻找那些受人欢迎的上传者
+und unsere Lieblings-Youtuber schnappen
 
-41
-00:02:27,850 --> 00:02:32,170
-我们就是Youtube的一部分，而如果Youtube成为了新一代的电视，那么
-Wir sind YouTube zum Anfassen und wumbeln,
-und wenn YouTube das neue Fernsehen ist, dann
+70
+00:02:24,690 --> 00:02:25,520
+并且请求他们，
+und sie darum bitten,
 
-42
-00:02:32,170 --> 00:02:35,239
-我想立刻知道你们之中谁是RTL（德国电视台）……欸，好吧，没人。
-will ich jetzt sofort wissen, wer von euch
-hier RTL... äh, nein.
+71
+00:02:25,520 --> 00:02:27,850
+将来制作上传更多的猫猫视频。
+in Zukunft mehr Katzenvideos zu machen.
 
-43
-00:02:35,240 --> 00:02:39,800
-如果Youtube成为了新一代的电视，那我们就都是节目编导！
-Wenn YouTube das neue Fernsehen ist, dann
-sind wir alle die Programmdirektoren!
+72
+00:02:27,850 --> 00:02:29,960
+我们就是 Youtube 欣欣向荣的关键
+Wir sind YouTube zum Anfassen und Wumbeln,
 
-44
-00:02:39,800 --> 00:02:43,640
+73
+00:02:30,060 --> 00:02:32,170
+当Youtube成为了新一代的电视，
+und wenn YouTube das neue Fernsehen ist,
+
+74
+00:02:32,170 --> 00:02:32,854
+那么我想立刻知道，
+dann will ich jetzt sofort wissen,
+
+75
+00:02:32,854 --> 00:02:35,239
+你们之中谁是RTL（德国电视台）…… 噢，不。
+wer von euch hier RTL... äh, nein.
+
+76
+00:02:35,240 --> 00:02:36,570
+如果Youtube成为了新一代的电视，
+Wenn YouTube das neue Fernsehen ist,
+
+77
+00:02:36,570 --> 00:02:39,800
+那我们就都是节目编导！
+dann sind wir alle die Programmdirektoren!
+
+78
+00:02:39,800 --> 00:02:41,670
 你在Youtube上最喜欢看什么？
-这上边有你一直希望看到的东西么？
 Was schaust du am liebsten auf YouTube?
+
+79
+00:02:41,770 --> 00:02:43,640
+这上边有你希望看到的东西么？
 Läuft hier das, was du dir wünscht?
 
-45
+80
 00:02:43,640 --> 00:02:45,500
-给我们留言吧！
+在我们的视频下面给我们留言吧！
 Schreib's unten in die Kommentare!
 
-46
-00:02:45,500 --> 00:02:48,100
-如果您喜欢本集视频的话，我会开心地对您竖起大拇指。
-Wenn dir das Video gefallen hat, freu ich
-mich über nen Daumen hoch -
+81
+00:02:45,500 --> 00:02:46,750
+如果您喜欢本集视频的话，
+Wenn dir das Video gefallen hat,
 
-47
-00:02:48,100 --> 00:02:51,500
-除此之外，假如您传播本集视频，让更多的人知道
-Und ich freu mich ausserdem, wenn du das Video
-weiterverbreitest, damit auch andere erfahren,
+82
+00:02:46,850 --> 00:02:48,100
+您在视频下点个“赞”，我会很开心。
+freu ich mich über 'nen Daumen hoch.
 
-48
+83
+00:02:48,100 --> 00:02:49,350
+除此之外，
+Und ich freu mich ausserdem,
+
+84
+00:02:49,350 --> 00:02:50,625
+假如您传播本集视频，
+wenn du das Video weiterverbreitest,
+
+85
+00:02:50,725 --> 00:02:51,500
+让更多的人知道
+damit auch andere erfahren,
+
+86
 00:02:51,500 --> 00:02:53,550
 YouTube的秘密的话，我会更加开心！
 was das Geheimnis von YouTube ist!
 
-49
-00:02:53,550 --> 00:02:57,630
-现在你还可以在这看看我如果解释“受政府监视的国家”，
-Jetzt kannst du dir hier noch anschauen, wie
-ich erkläre, was ein Überwachungsstaat ist,
+87
+00:02:53,550 --> 00:02:54,840
+现在你还可以在这看看,
+Jetzt kannst du dir hier noch anschauen,
 
-50
+88
+00:02:54,840 --> 00:02:57,630
+我如果解释“受政府监视的国家”，
+wie ich erkläre, was ein Überwachungsstaat ist,
+
+89
 00:02:57,630 --> 00:02:59,630
 或者在这看个猫猫视频。
 oder hier, alternativ, ein Katzenvideo.
 
-51
-00:02:59,630 --> 00:03:02,420
-感谢您观看本集视频，再见！
-Viel Spass beim Anschauen und bis zum nächsten Mal!
+90
+00:02:59,630 --> 00:03:00,975
+感谢您观看本集视频，
+Viel Spass beim Anschauen
+
+91
+00:03:01,075 --> 00:03:02,420
+再见！
+und bis zum nächsten Mal!
+
+92
+00:03:02,670 --> 00:03:08,350
+更多德语内容，请关注迈迪论坛: MyDict.org
