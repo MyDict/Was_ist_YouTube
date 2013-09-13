@@ -1,10 +1,11 @@
 ﻿1
 00:00:00,001 --> 00:00:01,000
-mydict.org 荣誉出品
+迈迪字幕组荣誉出品
+www.MyDict.org
 
 2
 00:00:01,250 --> 00:00:02,750
-参与用户：Asea, Peter, Ankedeng, Forever, Xinyan_y13
+译员：Asea, Peter, Ankedeng, Sagood, Xinyan
 
 3
 00:00:03,500 --> 00:00:05,330
