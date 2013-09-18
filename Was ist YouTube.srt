@@ -5,7 +5,7 @@ www.MyDict.org
 
 2
 00:00:01,250 --> 00:00:02,750
-译员：Asea, Peter, Ankedeng, Sagood, 破德
+Übersetzer: Asea, Peter, Ankedeng, Sagood, 破德
 
 3
 00:00:03,500 --> 00:00:05,330
